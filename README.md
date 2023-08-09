@@ -1,1 +1,1 @@
-# dotnet-cursor-pagination
+# Dotnet Cursor Pagination
